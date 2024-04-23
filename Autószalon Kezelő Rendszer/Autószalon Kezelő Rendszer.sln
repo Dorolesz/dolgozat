@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autószalon Kezelő Rendszer", "Autószalon Kezelő Rendszer.csproj", "{AD064A4A-77CE-455F-A54A-88A81828F5AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD064A4A-77CE-455F-A54A-88A81828F5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD064A4A-77CE-455F-A54A-88A81828F5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD064A4A-77CE-455F-A54A-88A81828F5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD064A4A-77CE-455F-A54A-88A81828F5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20138C15-2C9E-4C51-B3C3-E2A5D06A7397}
+	EndGlobalSection
+EndGlobal
